@@ -1,9 +1,9 @@
 .bg-primary {
-    background-color: #ffbbcc !important;
+    background-color: #46425e !important;
 }
 
 .bg-secondary {
-    background-color: #ffeecc  !important;
+    background-color: #ff6973 !important;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -15,12 +15,24 @@
     background: #FF9B71;
 }
 
+.fa-star {
+    color: #ff6973;
+}
+
+.divider-custom-line {
+    color: #ff6973;
+}
+
+.divider-custom .divider-custom-line {
+    background-color: #ff6973;
+}
+
 .copyright {
     background-color: #1a252f;
 }
 
 .text-white {
-    color: #ffffff!important;
+    color: #ffeecc !important;
 }
 
 .btn-primary {
